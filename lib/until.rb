@@ -6,5 +6,5 @@ def using_until
   end
 end
 
-using_until(levitation_force)
+using_until
   #your code here
