@@ -7,5 +7,5 @@ while {levitation_force} < 10
 end
 end
 
-using_until
+using_while
   #your code here
